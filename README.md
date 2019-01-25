@@ -8,7 +8,7 @@ Install dependencies (node 10+ recommended)
 npm install
 ```
 
-In order to run tests, [veracity-register](https://github.com/ValueProtocol/veracity-register#readme) has to be compiled in `../veracity-protocol` and Ganache est blockchain running
+In order to run tests, [veracity-register](https://github.com/ValueProtocol/veracity-register#readme) has to be compiled in `../veracity-protocol` and Ganache test Ethereum node running
 
 ```
 cd ../veracity-register
