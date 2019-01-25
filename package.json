@@ -1,0 +1,32 @@
+{
+  "name": "veracity",
+  "version": "1.0.0",
+  "description": "Javascript library for Veracity Protocol Light-infrastructure",
+  "main": "src/veracity.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ValueProtocol/veracity.git"
+  },
+  "keywords": [
+    "veracity",
+    "protocol",
+    "ethereum",
+    "web3"
+  ],
+  "author": "lumir mrkva",
+  "license": "EPL",
+  "bugs": {
+    "url": "https://github.com/ValueProtocol/veracity/issues"
+  },
+  "homepage": "https://github.com/ValueProtocol/veracity#readme",
+  "dependencies": {
+    "web3": "1.0.0-beta.33"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "truffle-contract": "^4.0.2"
+  }
+}
